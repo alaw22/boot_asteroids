@@ -5,3 +5,6 @@ ASTEROID_MIN_RADIUS = 20
 ASTEROID_KINDS = 3
 ASTEROID_SPAWN_RATE = 0.8  # seconds
 ASTEROID_MAX_RADIUS = ASTEROID_MIN_RADIUS * ASTEROID_KINDS
+PLAYER_RADIUS = 20
+PLAYER_ROTATION_SPEED = 300 # i don't know the units of this but I think it would be degrees per frame?
+PLAYER_SPEED = 200 # This would be pixels per frame?
