@@ -8,3 +8,6 @@ ASTEROID_MAX_RADIUS = ASTEROID_MIN_RADIUS * ASTEROID_KINDS
 PLAYER_RADIUS = 20
 PLAYER_ROTATION_SPEED = 300 # i don't know the units of this but I think it would be degrees per frame?
 PLAYER_SPEED = 200 # This would be pixels per frame?
+SHOT_RADIUS = 5 
+PLAYER_SHOOT_SPEED = 500
+PLAYER_SHOOT_COOLDOWN = 0.3
